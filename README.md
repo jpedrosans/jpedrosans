@@ -1,10 +1,10 @@
 # Oi! Me chamo João Pedro 👋
 
-Estudante de Ciência da Computação, focado em me tornar um desenvolvedor Java.
+Estudante de Ciência da Computação, focado em me tornar desenvolvedor Java.
 
-Tenho background em análise de dados e visão full-stack suficiente para entender o todo.
+Tenho experiência em análise de dados e uma visão full-stack que me permite entender o desenvolvimento como um todo.
 
-Ainda estou construindo meu caminho, mas é no back-end com Java que quero construir minha carreirar.
+Estou construindo minha trajetória, com foco em back-end utilizando Java.
 
 ---
 
