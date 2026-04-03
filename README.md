@@ -1,10 +1,10 @@
 # Oi! Me chamo João Pedro 👋
 
-Estudante de Ciência da Computação baseado no Brasil 🇧🇷, focado em me tornar um desenvolvedor Java.
+Estudante de Ciência da Computação, focado em me tornar um desenvolvedor Java.
 
-Tenho experiência com análise de dados e, quando a situação pede, também quebro uns galhos no front-end.
+Tenho background em análise de dados e visão full-stack suficiente para entender o todo.
 
-Ainda estou construindo meu caminho, mas Java é onde eu quero estar.
+Ainda estou construindo meu caminho, mas é no back-end com Java que quero construir minha carreirar.
 
 ---
 
@@ -19,4 +19,4 @@ Ainda estou construindo meu caminho, mas Java é onde eu quero estar.
 ![JUnit/Mockito](https://img.shields.io/badge/JUnit%2FMockito-0C447C?style=flat&logo=junit5&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0C447C?style=flat&logo=docker&logoColor=white)-->
 
-MySQL · PostgreSQL · Python · Business Intelligence · HTML/CSS · Git · Postman
+MySQL · PostgreSQLsim · Business Intelligence · HTML/CSS · Git · Postman
