@@ -6,6 +6,6 @@
 
 ## stack
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,springsecurity,docker)
+![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,docker)
 
 
