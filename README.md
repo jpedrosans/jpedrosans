@@ -6,6 +6,9 @@
 
 ## stack
 
+![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgresql,docker,git)
+![My Skills](https://skillicons.dev/icons?i=java)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2C2C2A?style=flat-square&logo=openjdk&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
