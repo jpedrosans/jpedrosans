@@ -1,10 +1,14 @@
-## 🧑‍💻 About Me
+## About Me
 
 - João Pedro **Java Backend Developer** estudante de **Ciência da Computação** com foco em desenvolvimento back-end Java
 - Desenvolvendo habilidades em **Spring Boot, JPA/Hibernate** e boas práticas de arquitetura de software
 - Stack atual: **Java · Spring Boot · JPA/Hibernate · SQL · Docker · Git**
 
 ## stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2C2C2A?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-0C447C?style=flat&logo=openjdk&logoColor=white)
 <!--![Spring Boot](https://img.shields.io/badge/Spring_Boot-0C447C?style=flat&logo=springboot&logoColor=white)
