@@ -1,10 +1,8 @@
-# Oi! Me chamo João Pedro 👋
+## João Pedro · Java Backend Developer
 
-Estudante de Ciência da Computação, focado em me tornar desenvolvedor Java.
-
-Tenho experiência em análise de dados e uma visão full-stack que me permite entender o desenvolvimento como um todo.
-
-Estou construindo minha trajetória, com foco em back-end utilizando Java.
+Estudante de Ciência da Computação com foco em desenvolvimento back-end Java.
+Aprendendo Spring Boot, JPA/Hibernate e boas práticas de arquitetura de software.
+Buscando minha primeira oportunidade como desenvolvedor Java Jr.
 
 ---
 
@@ -19,4 +17,4 @@ Estou construindo minha trajetória, com foco em back-end utilizando Java.
 ![JUnit/Mockito](https://img.shields.io/badge/JUnit%2FMockito-0C447C?style=flat&logo=junit5&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0C447C?style=flat&logo=docker&logoColor=white)-->
 
-MySQL · PostgreSQLsim · Business Intelligence · HTML/CSS · Git · Postman
+Java · Spring Boot · SQL · Git
