@@ -1,8 +1,7 @@
 ## João Pedro · Java Backend Developer
 
 Estudante de Ciência da Computação com foco em desenvolvimento back-end Java.
-Aprendendo Spring Boot, JPA/Hibernate e boas práticas de arquitetura de software.
-Buscando minha primeira oportunidade como desenvolvedor Java Jr.
+Desenvolvendo habilidades em Spring Boot, JPA/Hibernate e boas práticas de arquitetura de software.
 
 ---
 
