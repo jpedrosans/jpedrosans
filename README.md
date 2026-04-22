@@ -1,8 +1,8 @@
 ## About Me
 
 
-- Sou estudante de **Ciência da Computação** com foco em desenvolvimento **Java Backend Developer**
-- Desenvolvendo habilidades em desenvolvimento e boas práticas de arquitetura de software
+- Sou estudante de **Ciência da Computação** com foco em **Java Backend Developer**
+- Desenvolvendo habilidades e boas práticas de arquitetura/desenvolvimento de software
 
 ## stack
 
