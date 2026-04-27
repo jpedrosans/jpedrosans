@@ -7,7 +7,7 @@
 
 ## stack
 
-![My Skills](https://skillicons.dev/icons?i=java,postgres,git,github)
+![My Skills](https://skillicons.dev/icons?i=java,maven,postgres)
 
 
 <!--java,postgres,spring,maven,hibernate,docker,postman,mysql
