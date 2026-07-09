@@ -1,6 +1,6 @@
 <div align="center">
 
-### Olá, eu sou o João Pedro 🤙
+### Olá, eu sou o João Pedro
 
 **Construindo sistemas e resolvendo erros.**
 
