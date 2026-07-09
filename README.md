@@ -1,13 +1,13 @@
-## About Me
-- Estudante de **Ciência da Computação** (4º período), focado em **backend com Java**
-- No trabalho, crio dashboards em **Power BI** — foi aí que decidi ir pro outro lado do dado: construir os sistemas que alimentam eles
-- Base de **SQL/PostgreSQL** da graduação: modelagem, relacionamentos e consultas, em consolidação com prática
-- Reconstruindo minha base de **Java** do jeito certo — fundamentos → POO → projetos públicos neste perfil
-- Me preparando para buscar **estágio em desenvolvimento backend**
+### Olá! Eu sou o João Pedro 
 
-## Stack em estudo
-![My Skills](https://skillicons.dev/icons?i=java,postgres,git)
+Estudante de Ciência da Computação construindo minha base de **backend com Java** — todo código da jornada mora aqui.
 
-## Próximos passos
-Maven → JDBC → JUnit → **Spring Boot + JPA/Hibernate** → Docker
-<!-- ícones a desbloquear: maven,spring,hibernate,docker,postman,mysql -->
+**Agora** · fundamentos de Java e POO
+
+**Depois** · JDBC → Spring Boot + JPA → Docker
+
+**Meta** · estágio em desenvolvimento backend
+
+<sub>stack em estudo</sub>
+
+![Stack](https://skillicons.dev/icons?i=java,postgres,git)
