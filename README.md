@@ -3,8 +3,6 @@
 Estudante de Ciência da Computação construindo minha base em **backend com Java**.
 Fundamentos primeiro, frameworks depois — e todo o caminho vira código público aqui.
 
-[`💼 linkedin`](https://www.linkedin.com/in/nscmnto) · [`📫 jpedrosousans@gmail.com`](mailto:jpedrosousans@gmail.com)
+<sub>a rota — do fundamento ao deploy</sub>
 
-<sub>em estudo</sub>
-
-<img src="https://skillicons.dev/icons?i=java,postgres,git" height="40" />
+<img src="https://skillicons.dev/icons?i=java,git,postgres,mysql,maven,spring,hibernate,docker" />
