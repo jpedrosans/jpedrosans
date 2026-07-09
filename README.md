@@ -1,14 +1,13 @@
 ## About Me
+- Estudante de **Ciência da Computação** (4º período), focado em **backend com Java**
+- No trabalho, crio dashboards em **Power BI** — foi aí que decidi ir pro outro lado do dado: construir os sistemas que alimentam eles
+- Base de **SQL/PostgreSQL** da graduação: modelagem, relacionamentos e consultas, em consolidação com prática
+- Reconstruindo minha base de **Java** do jeito certo — fundamentos → POO → projetos públicos neste perfil
+- Me preparando para buscar **estágio em desenvolvimento backend**
 
-- Sou estudante de **Ciência da Computação** com foco em **Java Backend Developer**
-- Me aprofundando em Java e construindo projetos pra consolidar os fundamentos da linguagem
-- SQL com PostgreSQL: da modelagem e criação até relacionamentos e consultas
-- Em busca da primeira oportunidade como dev júnior pra aplicar o que venho aprendendo
+## Stack em estudo
+![My Skills](https://skillicons.dev/icons?i=java,postgres,git)
 
-## stack
-
-![My Skills](https://skillicons.dev/icons?i=java,maven,postgres)
-
-
-<!--java,postgres,spring,maven,hibernate,docker,postman,mysql
-- Desenvolvendo habilidades em **Spring Boot, JPA/Hibernate** e boas práticas de arquitetura de software
+## Próximos passos
+Maven → JDBC → JUnit → **Spring Boot + JPA/Hibernate** → Docker
+<!-- ícones a desbloquear: maven,spring,hibernate,docker,postman,mysql -->
