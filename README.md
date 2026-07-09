@@ -1,13 +1,10 @@
-### Olá! Eu sou o João Pedro 
+### João Pedro
 
-Estudante de Ciência da Computação construindo minha base de **backend com Java** — todo código da jornada mora aqui.
+Estudante de Ciência da Computação construindo minha base em **backend com Java**.
+Fundamentos primeiro, frameworks depois — e todo o caminho vira código público aqui.
 
-**Agora** · fundamentos de Java e POO
+[`💼 linkedin`](https://www.linkedin.com/in/nscmnto) · [`📫 jpedrosousans@gmail.com`](mailto:jpedrosousans@gmail.com)
 
-**Depois** · JDBC → Spring Boot + JPA → Docker
+<sub>em estudo</sub>
 
-**Meta** · estágio em desenvolvimento backend
-
-<sub>stack em estudo</sub>
-
-![Stack](https://skillicons.dev/icons?i=java,postgres,git)
+<img src="https://skillicons.dev/icons?i=java,postgres,git" height="40" />
